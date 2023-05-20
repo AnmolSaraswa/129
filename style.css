@@ -1,0 +1,7 @@
+body{
+    background-image: linear-gradient(to bottom right,rgb(255, 0, 0),rgb(255, 0, 123),rgb(255, 0, 183),rgb(255, 0, 225),rgb(212, 0, 255),rgb(162, 0, 255),rgb(89, 0, 255));
+
+}
+.xyz_and_result{
+    color: aliceblue;
+}
